@@ -80,7 +80,7 @@ function ParallaxText({ children, baseVelocity = 100 }) {
         {loopedBrandimg.map((array, index) => (
           <motion.div
             key={index}
-            className="grid place-items-center   md:w-[20vmin] max-w-[30rem] "
+            className="grid place-items-center lg:w-[30svmin]  md:w-[45vmin] max-w-[25rem] "
           >
             <div className="p-2 md:p-0 w-20 h-20 md:w-36 md:h-32  items-center flex shadow border border-primary-orange-200 rounded-lg ">
               <Image
