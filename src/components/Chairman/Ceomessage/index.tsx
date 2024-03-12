@@ -18,7 +18,7 @@ const CeoMessage:React.FC = () => {
           className={"whitespace-pre-wrap pt-10"}
           
           title={
-            "At PF, we consult and lead compliance-based solutions and implement industry best practices for clients across the globe. What started off as a team of two, has now significantly grown and consists of more than 800 dedicated employees, working at 12 locations within Pakistan and 5 locations internationally."
+            "Embark on unparalleled adventures with Crown Intl Travels, where our mission is to redefine travel experiences. As a leading travel agency, we are committed to curating journeys that surpass expectations, fostering meaningful connections, and promoting sustainable exploration. Our personalized service ensures that each adventure is tailored to your unique preferences. Crown Intl Travels - your gateway to extraordinary moments. Explore the world with us and let your dreams take flight. "
           }
           
           />
